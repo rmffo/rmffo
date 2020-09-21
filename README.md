@@ -1,12 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo1790
-Fork on GitHub223
-back to edit
-copy-markdown
-download markdown
-download backup
-preview
 <h1 align="center">Hi 👋, I'm M-RAKHA-F</h1>
 <h3 align="center">This is my 2nd Account, used for studying</h3>
 
